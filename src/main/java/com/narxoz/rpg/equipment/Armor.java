@@ -15,8 +15,8 @@ public interface Armor {
 
     // TODO: Add armor behavior methods
     // Consider:
-    // - int getDefense()
-    // - String getArmorInfo()
+     int getDefense();
+     String getArmorInfo();
     // - String getArmorType()
     // - any theme-specific properties?
 
